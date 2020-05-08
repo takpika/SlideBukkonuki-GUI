@@ -1,5 +1,5 @@
 # SlideBukkonuki-GUI
-[たこなす様](https://twitter.com/ITF_tako)作成のSlideBukkonukiをGUI化しました。[GitHub](https://github.com/takonasu/SlideBukkonuki)
+[たこなす様](https://twitter.com/ITF_tako)作成のスライドぶっこ抜きマンをGUI化しました。[GitHub](https://github.com/takonasu/SlideBukkonuki)
 
 ダウンロードは[こちら](https://github.com/takpika/SlideBukkonuki-GUI/releases)
 ※ベータ版です。動作を保証していません。
