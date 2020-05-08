@@ -23,6 +23,11 @@ macOS Catalina 10.15以上
 
 # 動作確認環境
 Mac mini Late 2014
+
+macOS Catalina 10.15.4
+
+MacBook Pro 13' 2019
+
 macOS Catalina 10.15.4
 
 # FAQ
