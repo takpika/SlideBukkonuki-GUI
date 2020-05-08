@@ -4,6 +4,25 @@
 ダウンロードは[こちら](https://github.com/takpika/SlideBukkonuki-GUI/releases)
 ※ベータ版です。動作を保証していません。
 
+# インストール方法
+同梱のinstall.commandを実行すると、自動で必要なドライバのインストールが始まります。
+
+画面の指示に従って操作してください。（英語です。ターミナル画面です。マウスは使えません。）
+
+ターミナルで以下のコマンドを実行します。（Homebrewがインストールされていない人向けのコマンドです。）
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew install opencv
+```
+※OpenCVが既にインストールされている場合はこの作業は必要ありません。
+
+# 対応OS
+macOS Catalina 10.15以上
+
+# 動作確認環境
+Mac mini Late 2014
+macOS Catalina 10.15.4
+
 # FAQ
 Q. オープンソースにしないのか？
 
