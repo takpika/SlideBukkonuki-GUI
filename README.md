@@ -12,7 +12,7 @@
 install.commandが実行できない人はターミナルで以下のコマンドを実行してください。（Homebrewがインストールされていない人向けのコマンドです。）
 ```
 xcode-select --install
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install opencv
 ```
 ※OpenCVが既にインストールされている場合はこの作業は必要ありません。
