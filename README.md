@@ -16,6 +16,7 @@ xcode-select --install
 brew install opencv
 ```
 ※OpenCVが既にインストールされている場合はこの作業は必要ありません。
+[参考URL](https://qiita.com/pypypyo14/items/4bf3b8bd511b6e93c9f9)
 
 # 対応OS
 macOS Catalina 10.15以上
