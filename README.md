@@ -9,7 +9,7 @@
 
 画面の指示に従って操作してください。（英語です。ターミナル画面です。マウスは使えません。）
 
-ターミナルで以下のコマンドを実行します。（Homebrewがインストールされていない人向けのコマンドです。）
+install.commandが実行できない人はターミナルで以下のコマンドを実行してください。（Homebrewがインストールされていない人向けのコマンドです。）
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 brew install opencv
