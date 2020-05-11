@@ -1,7 +1,7 @@
-# SlideBukkonuki-GUI
-[たこなす様](https://twitter.com/ITF_tako)作成のスライドぶっこ抜きマンをGUI化しました。[GitHub](https://github.com/takonasu/SlideBukkonuki)
+# SlideBukkonuki+
+授業動画からスライド画面を切り取ることができます。
 
-ダウンロードは[こちら](https://github.com/takpika/SlideBukkonuki-GUI/releases)
+ダウンロードは[こちら](https://github.com/takpika/SlideBukkonuki-Plus/releases)
 ※ベータ版です。動作を保証していません。
 
 # インストール方法
@@ -18,13 +18,14 @@ brew install opencv
 ※OpenCVが既にインストールされている場合はこの作業は必要ありません。
 [参考URL](https://qiita.com/pypypyo14/items/4bf3b8bd511b6e93c9f9)
 
+# なぜベータ版？
+ソフトに使われているOpenCVをインストールするのに現状ターミナルを開く必要があり、上級者向けだからです。現状回避策を考えています。
+
 # 対応OS
 macOS Catalina 10.15以上
 
 # 動作確認環境
 Mac mini Late 2014: macOS Catalina 10.15.4
-
-MacBook Pro 13' 2019: macOS Catalina 10.15.4
 
 # FAQ
 Q. 「ぶっこ抜く！」を押してフォルダを選択したあとフリーズする。
