@@ -1,4 +1,4 @@
-# SlideBukkonuki+
+# SlideBukkonuki+（仮名称）
 ![](https://raw.githubusercontent.com/takpika/SlideBukkonuki-Plus/master/SlideBukkonuki-GUI/img/スライドぶっこぬきマン.pn-2.png)
 
 授業動画からスライド画面を切り取ることができます。
